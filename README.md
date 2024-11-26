@@ -1,6 +1,6 @@
 # Poverty-and-Academic-Success overview
 
-The purpose of this repository is mainly to showcase python and pandas skills involving merging, grouping, cleaning, etc that are required for working with lots of data(in this case I am measuring poverty within thousands of schools of schools and tens of thousands of invidivual entries/rows)
+The purpose of this repository is mainly to showcase python and pandas skills involving merging, grouping, cleaning, etc that are required for working with data
 
 This repository provides a multidimensitonal analysis on how poverty affects test scores alongside other variables. 
 
