@@ -16,7 +16,7 @@ Questions include:
 
 All of the code, variable meanings, results and interpretations will be included in the Jupyter notebook attatched to the repository, however more analysis will be included in this read_me file as well.
 
-Main Findings
+Main Findings(more analysis can be found within code explinations)
 
 -Poverty has a large effect on test scores
 
