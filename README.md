@@ -1,6 +1,6 @@
 # Test-Scores-and-What-Affects-Them
 
-The purpose of this repository is mainly to showcase python and pandas skills involving merging, grouping, cleaning and other skills that are required for working with lots of data(in this case I am measuring poverty within thousands of schools of schools and tens of thousands of invidivual entries/rows)
+The purpose of this repository is mainly to showcase python and pandas skills involving merging, grouping, cleaning, etc that are required for working with lots of data(in this case I am measuring poverty within thousands of schools of schools and tens of thousands of invidivual entries/rows)
 
 What this repository is studying is how poverty affects academic preformance. The questions I ask are:
 
@@ -19,18 +19,8 @@ Main Findings:
 Where I found my data:
 All of the data used found from the California Assesment of Student Preformance and Progress(CAASPP)
 
-My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the 
+My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the "Unduplicated Student Poverty – Free or Reduced-Price Meals Data 2023–24" excel file
 https://www.cde.ca.gov/ds/ad/filessp.asp
 
 My data on test scores can be found by clicking the link below and downloading the csv file for "2023–24 California Statewide research file, All Students, fixed width"
-
-
-This link leads to several datsets:
-
-
-https://caaspp-elpac.ets.org/caaspp/ResearchFileListSB?ps=true&lstTestYear=2024&lstTestType=B&lstCounty=19&lstDistrict=64907-000&lstFocus=b#researchfile-layout
-
-I used:
-"2023–24 California Statewide ELA and Mathematics combined research file, All Student Groups, caret delimited"
-
-
+https://caaspp-elpac.ets.org/caaspp/ResearchFileListSB?ps=true&lstTestYear=2024&lstTestType=B&lstCounty=00&lstDistrict=00000
