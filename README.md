@@ -14,7 +14,7 @@ What this repository is studying is how poverty affects academic preformance. Th
 
 All of the code, variable meanings, results and interpretations will be included in the Jupyter notebook attatched to the repository, however more analysis will be included in this read_me file as well.
 
-Main Findings:
+Main Findings
 
 -Poverty has a large effect on test scores
 
@@ -22,7 +22,6 @@ Main Findings:
 
 -Charter schools in the same economic circumstance as similar non-charter schools do not have significantly better test scores
 
-Where I found my data:
 All of the data used found from the California Assesment of Student Preformance and Progress(CAASPP)
 
 My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the "Unduplicated Student Poverty – Free or Reduced-Price Meals Data 2023–24" excel file
