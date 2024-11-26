@@ -6,7 +6,7 @@ This repository provides a multidimensitonal analysis on how poverty affects tes
 
 Questions include:
 
--How does poverty affect academic preformance across elementary schoolers, middle schoolers and high schoolers?
+-How does poverty affect academic performance across elementary schoolers, middle schoolers and high schoolers?
 
 -How do these findings change when looking at specific kinds of tests, like math or reading
 
