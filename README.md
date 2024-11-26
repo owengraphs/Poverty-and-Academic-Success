@@ -1,15 +1,36 @@
 # Test-Scores-and-What-Affects-Them
 
-**Objective:
-The objective of this analysis is to see how economic circumstances affect academic sucess when taking into consideration effects such as grade level, charter schools, math proficency and reading proficency
+The purpose of this repository is mainly to showcase python and pandas skills involving merging, grouping, cleaning and other skills that are required for working with lots of data(in this case I am measuring poverty within thousands of schools of schools and tens of thousands of invidivual entries/rows)
 
-**Data Used:
-The data used is from the California Assessment of Student Performance and Progress(CAASPP)
+What this repository is studying is how poverty affects academic preformance. The questions I ask are:
 
-**Overview of how analysis is conducted:
+-How does poverty affect academic preformance across elementary schoolers, middle schoolers and high schoolers?
+-How do these findings change when looking at specific kinds of tests, like math or reading
+-How do math and reading scores change as a child develops, when taking poverty into account?
+-What role do Charter Schools play when analyzing poverty/preformance relationships
 
-The independent variable is the percentage of students who meet or exceed basic testing standards given by the CAASPP.
+All of the code, variable meanings, results and interpretations will be included in the Jupyter notebook attatched to the repository, however more analysis will be included in this read_me file as well.
 
-The dependent variable measuring economic circumstance is the percentage of students at a given school who are eligible for free lunch. While this is not a perfect estimate due to a wide range of factors(not always entirely accurate at predicting actual income distribution within a school, does not take into account other economic factors that may impact a school, etc). This data, unlike income per student or income per school, is available for most schools in California, and provids more data to measure. As a disclamer, this is of course not intended to stigmatize schools with a free lunch programm, instead this serves to show how economic circumstances affect a students ability to preform.
+Main Findings:
+-Poverty has a large effect on test scores
+-As children develop, math scores get progressively worse while writing scores get progressively better
+-Charter schools in the same economic circumstance as similar non-charter schools do not have significantly better test scores
+
+Where I found my data:
+All of the data used found from the California Assesment of Student Preformance and Progress(CAASPP)
+
+My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the 
+https://www.cde.ca.gov/ds/ad/filessp.asp
+
+My data on test scores can be found by clicking the link below and downloading the csv file for "2023–24 California Statewide research file, All Students, fixed width"
+
+
+This link leads to several datsets:
+
+
+https://caaspp-elpac.ets.org/caaspp/ResearchFileListSB?ps=true&lstTestYear=2024&lstTestType=B&lstCounty=19&lstDistrict=64907-000&lstFocus=b#researchfile-layout
+
+I used:
+"2023–24 California Statewide ELA and Mathematics combined research file, All Student Groups, caret delimited"
 
 
