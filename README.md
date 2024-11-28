@@ -6,11 +6,11 @@ This repository provides a multidimensitonal analysis on how poverty affects tes
 
 Questions include:
 
--How does poverty affect academic performance across elementary, middle and high schoolers?
+-How does poverty affect academic performance for elementary, middle and high schoolers?
 
--How do these findings change when looking at specific kinds of tests(math vs reading tests)
+-Are different academic subjects affected differently by poverty?
 
--How do math and reading scores change as a child develops, when taking poverty into account?
+-How do math and reading scores change as a child develops, when aslo taking poverty into account?
 
 -What role do Charter Schools play in student achievement when taking into account poverty?
 
@@ -18,13 +18,15 @@ All of the code, variable meanings, results and interpretations will be included
 
 Main Findings(more in depth analysis can be found within code explinations)
 
--Poverty has a large effect on test scores
+-Poverty has a large negative effect on test scores
 
 -As children develop, math scores get progressively worse while writing scores get progressively better
 
+-Math scores are more affected by poverty relative to reading scores
+
 -Charter schools in the similar economic circumstances as non-charter schools do not have significantly better test scores
 
-All of the data used can be found from two datasets created by the California Assesment of Student Preformance and Progress(CAASPP)
+All of the data used can be found from two datasets created by the California Assesment of Student Preformance and Progress(CAASPP) which are listed below.
 
 My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the "Unduplicated Student Poverty – Free or Reduced-Price Meals Data 2023–24" excel file
 https://www.cde.ca.gov/ds/ad/filessp.asp
