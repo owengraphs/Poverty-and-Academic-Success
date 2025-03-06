@@ -10,13 +10,13 @@ Questions include:
 
 -Are different academic subjects affected differently by poverty?
 
--How do math and reading scores change as a child develops, when aslo taking poverty into account?
+-How do math and reading scores change as a child develops, when also taking poverty into account?
 
 -What role do Charter Schools play in student achievement when taking into account poverty?
 
-All of the code, variable meanings, results and interpretations will be included in the Jupyter notebook attatched to the repository
+All of the code, variable meanings, results and interpretations will be included in the Jupyter notebook attached to the repository
 
-Main Findings(more in depth analysis can be found within code explinations)
+Main Findings(more in depth analysis can be found within code explanations)
 
 -Poverty has a large negative effect on test scores
 
@@ -28,7 +28,7 @@ Main Findings(more in depth analysis can be found within code explinations)
 
 All of the data used can be found from two datasets created by the California Assessment of Student Performance and Progress(CAASPP) which are listed below.
 
-My data on percentage of students eligble for free lunch(my rough poverty estimate) can be found by following the link below and downloading the "Unduplicated Student Poverty – Free or Reduced-Price Meals Data 2023–24" excel file
+My data on percentage of students eligible for free lunch(my rough poverty estimate) can be found by following the link below and downloading the "Unduplicated Student Poverty – Free or Reduced-Price Meals Data 2023–24" excel file
 https://www.cde.ca.gov/ds/ad/filessp.asp
 
 My data on test scores can be found by clicking the link below and downloading the csv file for "2023–24 California Statewide research file, All Students, fixed width"
